@@ -108,3 +108,9 @@ body{
     margin-top: 10px;
     display: none;
 }
+
+@media (max-width: 300px) {
+  input[placeholder="enter city name"]{
+        width: 10px;
+  }
+}
